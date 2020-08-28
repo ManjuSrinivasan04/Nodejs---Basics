@@ -1,0 +1,49 @@
+# JAVASCRIPT 
+
+Among the many benefits of JavaScript, one is its support for a wide variety of programming styles, 
+including object-oriented, functional, event-driven and prototype-based programming.
+
+JS frameworks are another great thing about JavaScript. 
+They are now being used by everyone to access and use pre-written JavaScript code for standard features and functionalities.
+
+# What Is A JavaScript Framework?
+
+A JavaScript framework is a collection of pre-written JS code libraries that developers can access 
+and use for creating routine programming functions and features.
+The basic use of a JS framework is for building websites and web applications with ease.
+Rather than writing the same code from scratch, developers can utilize these code libraries for accessing these programming blocks.
+
+For instance, if you want to add a standard JavaScript gallery to your webpage, you can find the code for the same in any JS framework 
+and use it on your page.
+
+This obviously saves you a lot of time which you can spend on creating other unique elements of your website.
+
+# Why Is It Useful?
+
+By providing an extensive library of ready to use plugins and code blocks, JavaScript saves your time and energy.
+
+When you’re working with a JavaScript framework, you can simply search for a functionality in the JS libraries 
+and directly import its code into your site’s code as required.
+
+The benefit of using a JS framework over a jQuery library is the overall efficiency of the former.
+
+The framework ensures that the new code perfectly fits the existing code of your site and is neatly structured.
+
+Besides that, it provides ready-made solutions for a number of common JS coding problems.
+
+# Top 11 Most Important JavaScript Frameworks For 2020
+
+1. Angular-JS (Front-end)
+2. React.JS (Front-end)
+3. Vue.js (Front-end)
+4. Ember.js (Front-end)
+5. Meteor.js (Back-end)
+6. Backbone.js (Front-end)
+7. Express (Back-end)
+8. Aurelia.js (Front-end)
+9. Polymer.js (Front-end)
+10. Next.js (Back-end)
+11. Mithril.js
+12. Webix
+
+LINK : https://blog.sagipl.com/best-javascript-frameworks/
