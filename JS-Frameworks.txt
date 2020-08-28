@@ -1,8 +1,7 @@
-# JAVASCRIPT 
+# JAVASCRIPT FRAMEWORKS 
 
 Among the many benefits of JavaScript, one is its support for a wide variety of programming styles, 
 including object-oriented, functional, event-driven and prototype-based programming.
-
 JS frameworks are another great thing about JavaScript. 
 They are now being used by everyone to access and use pre-written JavaScript code for standard features and functionalities.
 
@@ -12,23 +11,17 @@ A JavaScript framework is a collection of pre-written JS code libraries that dev
 and use for creating routine programming functions and features.
 The basic use of a JS framework is for building websites and web applications with ease.
 Rather than writing the same code from scratch, developers can utilize these code libraries for accessing these programming blocks.
-
 For instance, if you want to add a standard JavaScript gallery to your webpage, you can find the code for the same in any JS framework 
 and use it on your page.
-
 This obviously saves you a lot of time which you can spend on creating other unique elements of your website.
 
 # Why Is It Useful?
 
 By providing an extensive library of ready to use plugins and code blocks, JavaScript saves your time and energy.
-
 When you’re working with a JavaScript framework, you can simply search for a functionality in the JS libraries 
 and directly import its code into your site’s code as required.
-
 The benefit of using a JS framework over a jQuery library is the overall efficiency of the former.
-
 The framework ensures that the new code perfectly fits the existing code of your site and is neatly structured.
-
 Besides that, it provides ready-made solutions for a number of common JS coding problems.
 
 # Top 11 Most Important JavaScript Frameworks For 2020
@@ -46,4 +39,43 @@ Besides that, it provides ready-made solutions for a number of common JS coding 
 11. Mithril.js
 12. Webix
 
+
+# Top 5 JavaScript Front-End Frameworks
+
+1. React.js
+2. Vue.js
+3. Angular.js
+4. Ember.js
+5. Polymer.js
+
+Read more: https://github.com/collections/front-end-javascript-frameworks
+
+# Top 5 JavaScript Back-End Frameworks
+
+1. Express.js
+2. Next.js
+3. Meteor.js
+4. Koa.js
+5. Sails.js
+others : Derby.js, Hapi.js, Socket.io, LoopBack 
+
 LINK : https://blog.sagipl.com/best-javascript-frameworks/
+
+# Front End JavaScript framework
+React JS
+Vue Js
+Angular JS
+Ember JS
+Preact JS
+Svelte JS
+
+# Back End JavaScript framework
+Express JS
+Next JS
+Gatsby JS
+Nuxt JS
+
+# JavaScript Testing framework
+Jest
+Mocha
+Jasmine
