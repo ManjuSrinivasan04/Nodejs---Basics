@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "simple test app",
+  "main": "Newapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjuSrinivasan/Node.js.git"
+  },
+  "author": "Manju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjuSrinivasan/Node.js/issues"
+  },
+  "homepage": "https://github.com/ManjuSrinivasan/Node.js#readme"
+}

@@ -1,5 +1,7 @@
 //{3.Creating a module}
+
 //var x=;
+
 const EventEmitter=require('events')//EvenEmiter is a class
 //no longer needed const emiter=new EventEmitter();
 class Logger extends EventEmitter{
@@ -11,11 +13,13 @@ class Logger extends EventEmitter{
 }
 
 let url="http://mylogger.io/log";
+
 /*function log(msg){
     //send an http request
     console.log(msg);
     emiter.emit('messagelogged',{id:1,url:'http://'});
 }*/
+
 //visible outside
 //module.exports.log=log;
 //module.exports=log;
